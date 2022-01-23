@@ -1,4 +1,4 @@
-# Magic-Eight-Ball
+# Magic-Eight-Ball Read More: https://en.wikipedia.org/wiki/Magic_8-ball
 JavaScript is that powerful that in fact, that it can be used to tell someone’s fortune.
 In this project we will build the Magic Eight Ball using control flow in JavaScript.
 
